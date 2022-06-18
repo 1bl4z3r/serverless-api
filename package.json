@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "Do you really think I am gonna give a human description?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "1bl4z3r",
+  "license": "GNU General Public License v3.0",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
